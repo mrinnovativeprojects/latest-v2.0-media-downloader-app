@@ -1,0 +1,3 @@
+This project uses third-party packages at runtime, notably yt-dlp, Flask and FFmpeg.
+Review and comply with their respective licenses and the terms of the source websites.
+The launcher installs Python/FFmpeg through Windows Package Manager; third-party binaries are not embedded in this ZIP.
